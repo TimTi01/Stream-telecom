@@ -14,3 +14,4 @@ Stack:
 - ```npm i```
 - ```npm run dev```
 
+Потыкать сайт можно здесь: https://stream-telecom-sigma.vercel.app/
