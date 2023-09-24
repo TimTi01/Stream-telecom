@@ -1,0 +1,35 @@
+.text {
+    color: goldenrod
+}
+
+.color_grey {
+    color: gainsboro
+}
+
+.color_black {
+    color: black;
+}
+
+.color_blue {
+    color: #607d8b;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.size_m {
+    font-size: 16px;
+}
+
+.size_l {
+    font-size: 24px;
+}

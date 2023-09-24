@@ -1,0 +1,7 @@
+.table {
+    padding: 20px;
+    border-radius: 20px;
+    background: #d8e8ee;
+    box-shadow:  14px 14px 28px #cbdae0,
+                 -14px -14px 28px #e5f6fc;
+}

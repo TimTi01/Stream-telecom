@@ -1,0 +1,28 @@
+{   
+    "users": [
+        {
+            "id": "8bc33161-7a95-40b7-937b-6a686a168afa",
+            "name": "Billy Herrington",
+            "mail": "Herrington@gmail.com",
+            "number": "+70000000001"
+        },
+        {
+            "id": "36316c0c-cc4d-4f06-a087-ed0b86606536",
+            "name": "Van Darkholme",
+            "mail": "Van@gmail.com",
+            "number": "+70000000002"
+        },
+        {
+            "id": "b2e921d6-4716-44de-97a1-97974bc3e1a1",
+            "name": "Danny Lee",
+            "mail": "Danny@gmail.com",
+            "number": "+70000000003"
+        },
+        {
+            "id": "264d3206-7f91-4f46-bdec-14df972070e0",
+            "name": "Steve Rambo",
+            "mail": "Steve@gmail.com",
+            "number": "+70000000004"
+        }
+    ]
+}

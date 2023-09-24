@@ -1,0 +1,22 @@
+.button {
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    border: 0;
+    background: #d8e8ee;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.button:hover {
+    border-radius: 20px;
+    background: #d8e8ee;
+    box-shadow:  5px 5px 10px #cbdae0,
+                 -5px -5px 10px #e5f6fc;
+    border: 0;
+}
+
+button:active {
+    transform: scale(1, 0.3);
+    transition: 1s;
+}
